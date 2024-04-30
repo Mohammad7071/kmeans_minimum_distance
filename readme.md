@@ -1,4 +1,4 @@
-#MINIMUM_DISTANCE AND CLUSTRING
+# MINIMUM_DISTANCE AND CLUSTRING (PROJECT)
 this project calculate minimum distance between list of the points and centroids by manhattan method and clustring points with closest centroid
 ## INTRODUCTION
 you can use this codes in python when you have list of the points,program choose randomly 3 point among of points and calculate minimum distance
